@@ -10,3 +10,5 @@ This project is a fleet of Jet objects. Jets can have Pilots.
 * Arrays
 * UML
 * Test-Driven Development
+
+com.erernst.jets
