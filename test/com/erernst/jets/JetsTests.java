@@ -6,9 +6,9 @@ import org.junit.Test;
 
 public class JetsTests {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
+	
+	public void convertToMach_method_returns_mach_from_mph() {
+		
 	}
 
 }
