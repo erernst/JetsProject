@@ -2,9 +2,29 @@ package com.erernst.jets;
 
 public class Jet {
 	private String model;
-	private Double speed, range;
+	private Double speed, range, price;
 	private int capacity;
 	private Pilot pilot;
+	
+	@Override
+	public String toString() {
+		StringBuilder builder = new StringBuilder();
+		builder.append("Model: ");
+		builder.append(model);
+		builder.append("Speed: ");
+		builder.append(speed);
+		builder.append("Range: ");
+		builder.append(range);
+		builder.append("Price: ");
+		builder.append(price);
+		return builder.toString();
+	}
+	public Double getPrice() {
+		return price;
+	}
+	public void setPrice(Double price) {
+		this.price = price;
+	}
 	public String getModel() {
 		return model;
 	}
