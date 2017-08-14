@@ -25,21 +25,21 @@ Quit
 * List fleet prints out the model, speed, range, and price of each jet. (There must be at least 5 jets stored when the program starts).
 
 
-*The view fastest jet and longest range options both print out all of the information about their jets.
+* The view fastest jet and longest range options both print out all of the information about their jets.
 
-*Quit exits the program.
+* Quit exits the program.
 
-*A user can add custom jets to the fleet.
+* A user can add custom jets to the fleet.
 
-###Stretch Goals
+### Stretch Goals
 
-*Each jet has a pilot
+* Each jet has a pilot
 
-*Assign a random pilot to each jet that is created
+* Assign a random pilot to each jet that is created
 
-*Users can hire pilots
+* Users can hire pilots
 
-*Whenever a jet's information is displayed, that jet's pilot and his/her information should also be displayed
+* Whenever a jet's information is displayed, that jet's pilot and his/her information should also be displayed
 
 ## Program Basics
 This program is pretty simple to operate. It begins with a 6 option menu (the 6th being a way to hire pilots). 
