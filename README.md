@@ -16,11 +16,11 @@ The main objective of this assignment was to get practice with methods, classes 
 
 * There is a menu with 5 options:
 
-List fleet
-View fastest jet
-View jet with longest range
-Add a jet to Fleet
-Quit
+1. List fleet
+2. View fastest jet
+3. View jet with longest range
+4. Add a jet to Fleet
+5. Quit
 
 * List fleet prints out the model, speed, range, and price of each jet. (There must be at least 5 jets stored when the program starts).
 
