@@ -9,6 +9,5 @@ public class Hangar {
 
 	public void setJet(Jet jet) {
 		this.jet = jet;
-	}
-	public void addJet(Jet jet);
-}
+	}}
+

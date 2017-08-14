@@ -6,4 +6,5 @@ public interface JetsInterface {
 	void viewLongestRange();
 	void addJet();
 	void quit();
+	double convertToMach(double d);
 }
